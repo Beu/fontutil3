@@ -12,4 +12,8 @@ $ mvn package
 $ mvn exec:exec
 ```
 
+## Test1
+
+開く font file(s) の glyph の 有無を 表す yaml file を 出力す。
+必要とする 漢字群を canvas に 全て 表示するは 昔の font file にて glyph 無けれども 空白を 表示しつる ものが 有る 故。
 
