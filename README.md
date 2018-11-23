@@ -16,4 +16,4 @@ $ mvn exec:exec
 
 開く font file(s) の glyph の 有無を 表す yaml file を 出力す。
 必要とする 漢字群を canvas に 全て 表示するは 昔の font file にて glyph 無けれども 空白を 表示しつる ものが 有る 故。
-
+XML ならず JSON ならず yaml を 用ゐるは 必要なる 行までを 讀みて 解析し易き 故。
